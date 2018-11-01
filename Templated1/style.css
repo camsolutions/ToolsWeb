@@ -1,0 +1,17 @@
+.banner{
+	background-attachment: fixed;
+	background-size: cover;
+	color:white;
+	font-family: 'Bree Serif', serif;	
+	height: 100vh;
+	font-size: 3vh;
+	background-repeat: no-repeat;
+}
+
+.text{
+	font-family: 'Bree Serif', serif;
+}
+.bg{
+	background: rgba(0,0,0,0.4);
+
+}
